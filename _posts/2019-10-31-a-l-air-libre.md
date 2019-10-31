@@ -1,5 +1,5 @@
 ---
-date: 2019-10-31T10:00:00.000Z
+date: 2018-10-31T12:00:00.000Z
 layout: post
 title: À l'air libre
 subtitle: Le parcours Art Session
@@ -10,10 +10,8 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/Piet_Mondriaan%2C_1942_-_New_York_City_I.jpg
 optimized_image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/Piet_Mondriaan%2C_1942_-_New_York_City_I.jpg
-category: blog
+category:
 tags:
-  - welcome
-  - blog
 author: thiagorossener
 paginate: true
 custom_url: https://soundcloud.com
