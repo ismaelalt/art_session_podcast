@@ -1,14 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Art session
+title: Art session | Podcasts
+description: Poscasts proposés par Art Session et le musée George Pompidou pour la soirée sonore du 21 Novembre
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: ismaelaliouat@gmail.com
 disqus_username: disqus_username
 show_hero: true
 
