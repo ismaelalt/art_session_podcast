@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://upload.wikimedia.org/wikipedia/commons/c/cf/Piet_Mondriaan%2C_1942_-_New_York_City_I.jpg
+  ../../assets/img/alps-from-plane-min.jpeg
 optimized_image: >-
-  https://upload.wikimedia.org/wikipedia/commons/c/cf/Piet_Mondriaan%2C_1942_-_New_York_City_I.jpg
+  ../../assets/img/alps-from-plane-min.jpeg
 category:
 tags:
 author: thiagorossener

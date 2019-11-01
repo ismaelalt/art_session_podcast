@@ -5,9 +5,9 @@ title: Les podcasts du musée
 subtitle:
 description: Série "Parcours dans les collections" réalisée par le musée George Pompidou
 image: >-
-  https://upload.wikimedia.org/wikipedia/commons/c/cf/Piet_Mondriaan%2C_1942_-_New_York_City_I.jpg
+  ../../assets/img/cover-podcast-centre-pompidou.png
 optimized_image: >-
-  https://upload.wikimedia.org/wikipedia/commons/c/cf/Piet_Mondriaan%2C_1942_-_New_York_City_I.jpg
+  ../../assets/img/cover-podcast-centre-pompidou.png
 category:
 tags:
 author:
