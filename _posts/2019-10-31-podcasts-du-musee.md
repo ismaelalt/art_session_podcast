@@ -5,9 +5,9 @@ title: Les podcasts du musée
 subtitle:
 description: Série "Parcours dans les collections" réalisée par le musée George Pompidou
 image: >-
-  https://ismaelalt.github.io/jekflix-template/assets/img/cover-podcast-centre-pompidou.png
+  https://ismaelalt.github.io/art_session_podcast/assets/img/cover-podcast-centre-pompidou.png
 optimized_image: >-
-  https://ismaelalt.github.io/jekflix-template/assets/img/cover-podcast-centre-pompidou.png
+  https://ismaelalt.github.io/art_session_podcast/assets/img/cover-podcast-centre-pompidou.png
 category:
 tags:
 author: artsession
