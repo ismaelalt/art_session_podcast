@@ -7,12 +7,12 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  ../../assets/img/alps-from-plane-min.jpeg
+  ../assets/img/alps-from-plane-min.jpeg
 optimized_image: >-
-  ../../assets/img/alps-from-plane-min.jpeg
+  ../assets/img/alps-from-plane-min.jpeg
 category:
 tags:
-author: thiagorossener
+author: artsession
 paginate: true
 custom_url: https://soundcloud.com
 ---

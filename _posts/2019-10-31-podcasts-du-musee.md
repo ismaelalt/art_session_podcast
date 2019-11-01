@@ -10,7 +10,7 @@ optimized_image: >-
   ../../assets/img/cover-podcast-centre-pompidou.png
 category:
 tags:
-author:
+author: artsession
 paginate: true
 custom_url: https://shows.pippa.io/parcours-dans-les-collections
 ---
