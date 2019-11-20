@@ -8,9 +8,6 @@ menu: true
 
 # À propos
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Créé en 2008, le projet de bénévolat culturel Art Session a pour mission de soutenir, développer et diversifier les publics de jeunes adultes du Centre Pompidou, et invite les jeunes à œuvrer en faveur de l'accès à l’art et à la culture pour le plus grand nombre.
+
+Le collectif Art Session recrute chaque année une vingtaine de jeunes bénévoles de 18 à 25 ans, et produit un réservoir d’idées et de propositions qui donnent naissance à des projets culturels conçus par et pour les jeunes.
