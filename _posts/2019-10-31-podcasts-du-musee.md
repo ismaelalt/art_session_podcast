@@ -3,7 +3,7 @@ date: 2018-10-31T11:00:00.000Z
 layout: post
 title: Les podcasts du musée
 subtitle:
-description: Série "Parcours dans les collections" réalisée par le musée George Pompidou
+description: Série "Parcours dans les collections" réalisée par le centre Georges Pompidou
 image: >-
   https://ismaelalt.github.io/art_session_podcast/assets/img/cover-podcast-centre-pompidou.png
 optimized_image: >-

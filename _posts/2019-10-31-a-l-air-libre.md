@@ -2,7 +2,7 @@
 date: 2018-10-31T12:00:00.000Z
 layout: post
 title: À l'air libre
-subtitle: Le parcours Art Session
+subtitle: La balade sonore du collectif Art Session <br> Soirée sonore &#35;7  Art et Thérapie <br> 21 nov. 2019
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
@@ -14,7 +14,7 @@ category:
 tags:
 author: artsession
 paginate: true
-custom_url: https://soundcloud.com
+custom_url: https://soundcloud.com/user-375800001/sets/soiree-sonore-5-balade-sonore-art-session
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
