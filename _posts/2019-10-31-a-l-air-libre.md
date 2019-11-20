@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-    https://ismaelalt.github.io/art_session_podcast/assets/img/alps-from-plane-min.jpeg
+    https://ismaelalt.github.io/art_session_podcast/assets/img/alps-from-plane-min-cropped.jpeg
 optimized_image: >-
-    https://ismaelalt.github.io/art_session_podcast/assets/img/alps-from-plane-min.jpeg
+    https://ismaelalt.github.io/art_session_podcast/assets/img/alps-from-plane-min-cropped.jpeg
 category:
 tags:
 author: artsession
